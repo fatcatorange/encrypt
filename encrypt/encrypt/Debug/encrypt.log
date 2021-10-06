@@ -1,0 +1,21 @@
+﻿  encrypt.cpp
+C:\Users\jason\source\repos\encrypt\encrypt\encrypt.cpp(12,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jason\source\repos\encrypt\encrypt\encrypt.cpp(39,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jason\source\repos\encrypt\encrypt\encrypt.cpp(40,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jason\source\repos\encrypt\encrypt\encrypt.cpp(51,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jason\source\repos\encrypt\encrypt\encrypt.cpp(24,11): warning C4101: 'tmp': 未參考的區域變數
+C:\Users\jason\source\repos\encrypt\encrypt\encrypt.cpp(25,9): warning C4101: 'read_size': 未參考的區域變數
+C:\Users\jason\source\repos\encrypt\encrypt\encrypt.cpp(60,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jason\source\repos\encrypt\encrypt\encrypt.cpp(72,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jason\source\repos\encrypt\encrypt\encrypt.cpp(84,12): warning C4477: 'printf' : 格式字串 '%s' 需要 'char *' 類型的引數，但 variadic 引數 1 的類型為 'LPWSTR'
+C:\Users\jason\source\repos\encrypt\encrypt\encrypt.cpp(84,12): message : 請考慮在格式字串中使用 '%ls'
+C:\Users\jason\source\repos\encrypt\encrypt\encrypt.cpp(84,12): message : 請考慮在格式字串中使用 '%lls'
+C:\Users\jason\source\repos\encrypt\encrypt\encrypt.cpp(84,12): message : 請考慮在格式字串中使用 '%Ls'
+C:\Users\jason\source\repos\encrypt\encrypt\encrypt.cpp(84,12): message : 請考慮在格式字串中使用 '%ws'
+C:\Users\jason\source\repos\encrypt\encrypt\encrypt.cpp(79,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jason\source\repos\encrypt\encrypt\encrypt.cpp(105,28): warning C4244: '=': 將 'const WCHAR' 轉換為 'char'，由於類型不同，可能導致資料遺失
+C:\Users\jason\source\repos\encrypt\encrypt\encrypt.cpp(178,52): warning C4244: '=': 將 'WCHAR' 轉換為 'char'，由於類型不同，可能導致資料遺失
+C:\Users\jason\source\repos\encrypt\encrypt\encrypt.cpp(157,13): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jason\source\repos\encrypt\encrypt\encrypt.cpp(158,13): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jason\source\repos\encrypt\encrypt\encrypt.cpp(108): warning C4172: 傳回區域變數或暫存的位址: newBuff
+  encrypt.vcxproj -> C:\Users\jason\source\repos\encrypt\Debug\encrypt.exe
